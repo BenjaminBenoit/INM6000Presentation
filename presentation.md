@@ -35,14 +35,15 @@ class: center, middle
 * Les Fournisseurs d'Accès Internet (FAI)
 	* Largement en défaveur de la Neutralité du Net.
 	* Veulent plus de contrôle sur les utilisateurs.
-
----
+	
 * Les Gouvernements
 	* Ce sont les gouvernement et les entités étatiques qui fixent les règles.
 	* Au Canada, le Conseil de la Radiodiffusion et des Télécommunication Canadienne (CRTC).
 	* Aux États-Unis, la Federal Communications Commission (FCC).
 	* En Europe, le Body of European Regulators for Electronic Communications (BEREC)
 	* En France, l'Autorité de Régulation des Communications Électroniques (ARCEP).
+
+---
 
 * Content Distribution NetWork (CDN)
 	* Plate-forme proposés par les FAI, et sont placés aux limites du réseau.
@@ -99,14 +100,45 @@ class: center, middle
 
 # Principaux arguments en défaveur de la Neutralité du Net
 
-* Les besoins en bande passante sont en constante augmentation, notamment à cause des services Over The Top (Streaming, Appel vidéo, Peer to Peer etc..) et de la multiplication des appareils mobiles. L'investissement en infrastructure pour supporter ces nouvelles demandes est coûteux.
+* Les besoins en bande passante sont en constante augmentation, notamment à cause des services Over The Top (Streaming, Appel vidéo, Peer to Peer etc..) et de la multiplication des appareils mobiles. L'investissement en infrastructure pour supporter ces nouvelles demandes est coûteux et il y aura donc moins d'innovations et de modernisation du réseau.
+
+* Les FAI hésitent à investir dans les infrastructure car ils estiment que les retombées économiques iront aux FCI.
 
 ---
 
 # Solutions apportées par les FAI
 
-* Faire payer les FCI pour leurs utilisation de la bande passante.
-* Faire payer les utilisateurs en leur proposant des 'Fast-lanes' : des vois rapide permettant d'accèder à son contenu plus rapidement, au détriment des autres utilisateurs.
+* Faire payer les FCI en fonction de leur utilisation de la bande passante.
+
+* Fast-Lane : les utilisateurs paient un forfait plus important aux FAI pour accéder à leurs contenus plus rapidement.
+
+Ces deux solutions ont dû faire face à une levée de bouclier de la part des utilisateurs et des FCI.
+Depuis les FAI changent de stratégie pour faire accepter l'idée d'un internet sans réglementation : 
+
+* Zero-rating : les FAI permettent aux Utilisateurs de se connecter gratuitement à certains sites (dans le cadre d'un forfait mobile, les données ne sont pas décomptées pour ce site).
+
+* Algorithme utilisé par les CDN : les FAI exploitant les CDN permettent aux données de certains sites de rester plus lontemps dans le cache, moyennant rétribution. C'est une manière détournée de mettre en place les Fast-lane.
+
+
+---
+
+# Défendre la Neutralité du Net aujourd'hui
+
+En réponse aux nouvelles techniques déployées par les FAI pour contourner la régulation du réseau, il faut étendre la définition de Neutralité du Net
+
+* Les défenseurs de la Neutralité du Net s’arrêtent souvent au fait qu’il faut traiter chaque paquet échangé sur le net de manière égale
+
+* Mais ne suffit pas à garantir un réseau neutre. Il faudrait également : 
+
+	* Réglementer les FSI : s'assurer ques les résultats de recherche sponsorisées soient mentionnés comme tel et ne sont pas mélangés avec les résultats organiques.
+	
+	* Rendre obligatoire la transparence des algorithmes des CDN utilisés pour la mise en cache du contenu.
+
+
+---
+
+# Défendre la Neutralité du Net dans le futur
+
 
 
 
