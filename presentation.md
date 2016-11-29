@@ -28,14 +28,15 @@ class: center, middle
 	* Electronic Fountier Foundation : défend les libertés civiles dans le domaine du numérique.
 	* D'autres acteurs plus surprenant : Christian coalition of America.
 
-* Les Fournisseurs de Contenu Internet
+* Les Fournisseurs de Contenu Internet (FCI)
 	* Google, Amazon, Ebay, Netflix, Facebook etc..
 	* Militent activement pour la protection de la Neutralité du Net.
 	* Ne veulent pas payer les FAI pour pouvoir mettre leur contenu sur Internet.
-	* La réglementation permet de ne pas créer de barrière à l'entrée empêchant ainsi de nouveaux joueurs d'arriver sur le marché.
+	* La réglementation permet de ne pas créer de barrière à l'entrée.
+	* Ces barrières empêchent de nouveaux joueurs d'arriver sur le marché et brident l'innovation.
 	* La Neutralité du Net permet aux FCI de grande envergure d'éviter de grosses dépenses.
 
-* Les Fournisseurs d'Accès Internet
+* Les Fournisseurs d'Accès Internet (FAI)
 	* Largement en défaveur de la Neutralité du Net.
 	* Considèrent que la réglementation nuit à l'investissement dans de nouvelles infrastructures réseaux.
 	* Ne souhaitent pas payer pour les FCI.
@@ -43,7 +44,11 @@ class: center, middle
 
 ---
 * Les Gouvernements
-
+	* Ce sont les gouvernement et les entités étatiques qui fixent les règles.
+	* Au Canada, le Conseil de la Radiodiffusion et des Télécommunication Canadienne (CRTC).
+	* Aux États-Unis, la Federal Communications Commission (FCC).
+	* En Europe, le Body of European Regulators for Electronic Communications (BEREC)
+	* En France, l'Autorité de Régulation des Communications Électroniques (ARCEP).
 
 
 ---
@@ -63,86 +68,8 @@ class: center, middle
 
 * Europe
 	* 2016 : l'Union Européenne consacre la défense de la Neutralité du Net dans sa forme la plus stricte
-	* En France, l'ARCEP a le pouvoir de contrôler et de sanctionner les FAI qui enfreigne la Neutralité du Net.
+	* En France, l'ARCEP a le pouvoir de contrôler et de sanctionner les FAI qui enfreignent la Neutralité du Net.
 	* Seul exception : le Zero-Rating reste autorisé
 
 
 ---
-
-# Contenu du sprint actuel
-
-* Démarrer une tâche de fuzzing en définissant une grammaire de base pour injecter des données dans un programme.
-
-
-* Fuzzer un programme via l’entrée standard.
-
-
-* Consulter la liste des rapports de crash.
-
-
-* Consulter la liste des tâches de fuzzing.
-
----
-class: center, middle
-
-# Démo
----
-
-# Diagramme de classe
-
-```
-
-
-
-
-
-
-
-
-
-
-
-```
-![](./img/diag_classe_2.png)
-
-
----
-class: center, middle
-
-# Le code
----
-
-### Revue de sprint
-
-#### Revue technique
-
-\+ Tâches accomplies dans les temps prévus
-
-\- Framework peu documenté rend la tâche plus difficile
-
-\- Contrainte temporelle fait qu'on a dû utiliser un design architectural moins robuste
-
-
-#### Revue gestion
-
-\+ Bon transfert de connaissance entre les membres de l'équipe
-
-\- Commencement tardif du travail
-
-#### Améliorations prévues
-
-* Commencer le travail dès le jour 1 du sprint
-
----
-
-### Plan du prochain sprint
-
-
-1. En tant qu’utilisateur je peux consulter les détails d’un crash afin de connaître les causes exactes qui ont conduits le programme à être interrompu.
-	- 16 heures
-
-2. En tant qu’utilisateur je peux consulter les détails d’une tâche de fuzzing afin de connaître le statut de chacune d’entre elles.
-	- 16 heures
-
-3. En tant qu’utilisateur je peux forcer l’arrêt d’une tâche de fuzzing afin de libérer des ressources pour d’autres tâches de fuzzing.
-	- 9 heures
