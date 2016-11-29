@@ -31,16 +31,10 @@ class: center, middle
 * Les Fournisseurs de Contenu Internet (FCI)
 	* Google, Amazon, Ebay, Netflix, Facebook etc..
 	* Militent activement pour la protection de la Neutralité du Net.
-	* Ne veulent pas payer les FAI pour pouvoir mettre leur contenu sur Internet.
-	* La réglementation permet de ne pas créer de barrière à l'entrée.
-	* Ces barrières empêchent de nouveaux joueurs d'arriver sur le marché et brident l'innovation.
-	* La Neutralité du Net permet aux FCI de grande envergure d'éviter de grosses dépenses.
 
 * Les Fournisseurs d'Accès Internet (FAI)
 	* Largement en défaveur de la Neutralité du Net.
-	* Considèrent que la réglementation nuit à l'investissement dans de nouvelles infrastructures réseaux.
-	* Ne souhaitent pas payer pour les FCI.
-	* Veulent plus de contrôle sur les utilisateurs, afin d'éviter des congestions du réseaux.
+	* Veulent plus de contrôle sur les utilisateurs.
 
 ---
 * Les Gouvernements
@@ -87,7 +81,33 @@ class: center, middle
 * Europe
 	* 2016 : l'Union Européenne consacre la défense de la Neutralité du Net dans sa forme la plus stricte
 	* En France, l'ARCEP a le pouvoir de contrôler et de sanctionner les FAI qui enfreignent la Neutralité du Net.
-	* Seul exception : le Zero-Rating reste autorisé
+	* Seule exception : le Zero-Rating reste autorisé
+
+
+---
+
+# Principaux arguments en faveur de la Neutralité du Net
+
+* Supprimer les barrières à l'entrée voulues par les FAI à l'encontre des FCI permet de stimuler la création de nouveaux FCI et donc de promouvoir la créativité et le dynamisme du réseau.
+
+* Évite d'avoir un réseau fragmenté à la manière de la télévision câblée.
+
+* Internet est depuis sa création un lieu de liberté, il ne faut pas en restreindre l'accès.
+
+* Ne pas laisser aux FAI le pouvoir de filtrer l'information.
+
+
+# Principaux arguments en défaveur de la Neutralité du Net
+
+* Les besoins en bande passante sont en constante augmentation, notamment à cause des services Over The Top (Streaming, Appel vidéo, Peer to Peer etc..) et de la multiplication des appareils mobiles. L'investissement en infrastructure pour supporter ces nouvelles demandes est coûteux.
+
+---
+
+# Solutions apportées par les FAI
+
+* Faire payer les FCI pour leurs utilisation de la bande passante.
+* Faire payer les utilisateurs en leur proposant des 'Fast-lanes' : des vois rapide permettant d'accèder à son contenu plus rapidement, au détriment des autres utilisateurs.
+
 
 
 ---
