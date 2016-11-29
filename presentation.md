@@ -139,7 +139,16 @@ En réponse aux nouvelles techniques déployées par les FAI pour contourner la 
 
 # Défendre la Neutralité du Net dans le futur
 
+* Les FCI/FSI vont de plus en plus chercher à délivrer eux même leurs contenus au client sans passer par les FAI traditionnel.
 
+* Les FCI/FSI ne concurenceront pas directement les FAI via les réseaux traditionnels : 
+	* Projet Loon de Google		- Fournir un accès gratuit à Internet via des ballons gonflables
+	* Space X, One Web, Boeing	- Fournir un accès gratuit à Internet via un réseau dense de satellite
 
+* Risque d'avoir un Internet à deux vitesses :
+	* Un Internet gratuit mais dont le contenu est limité (exemple de Facebook en Inde qui proposait un 'Free Basics' pack permettant un accès gratuit à certains site Internet, sélectionné par la compagnie).
+	* Un Internet payant avec un contenu régulier.
+
+* Les FCI/FSI qui hier, protégeaient la Neutralité du Net risque demain de devenir ses plus fervents opposants.
 
 ---
