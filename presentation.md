@@ -1,22 +1,21 @@
 class: center, middle
 
-# Fuzzing as a service (FAAS)
+# La Neutralité du Net : un combat continu sur plusieurs fronts
 
-##### Frédéric Vachon, Martin Grogan et Benjamin Rosa
+##### Frédéric Vachon, Karl St-Cyr et Benjamin Rosa
 
 ---
 
-# Fuzzing as a service (FAAS)
+# La Neutralité du Net défend 4 principes
 
-* Améliorer la qualité et la sécurité des logiciels pour les acteurs qui n'ont pas d'immense budget à investir
+* La transmission des données par les opérateurs sans en examiner le contenu.
 
-* Inciter les gens à intégrer le fuzzing dans le cycle du développement de leur logiciel
+* La transmission des données sans prise en compte de la source ou de la destination des données.
 
-* Démocratiser la pratique du fuzzing
+* La transmission des données sans privilégier un protocole de communication.
 
-    * Produit gratuit
+* La transmission des données sans en altérer le contenu.
 
-    * Facile d'utilisation
 
 ---
 
