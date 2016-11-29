@@ -19,6 +19,35 @@ class: center, middle
 
 ---
 
+## Les parties prenantes au débat de la Neutralité du Net
+
+
+* La société civile
+	* Organisations fondées de façon autonome.
+	* Défendent l’intérêt des citoyens indépendamment de l’influence des entreprises et des États.
+	* Electronic Fountier Foundation : défend les libertés civiles dans le domaine du numérique.
+	* D'autres acteurs plus surprenant : Christian coalition of America.
+
+* Les Fournisseurs de Contenu Internet
+	* Google, Amazon, Ebay, Netflix, Facebook etc..
+	* Militent activement pour la protection de la Neutralité du Net.
+	* Ne veulent pas payer les FAI pour pouvoir mettre leur contenu sur Internet.
+	* La réglementation permet de ne pas créer de barrière à l'entrée empêchant ainsi de nouveaux joueurs d'arriver sur le marché.
+	* La Neutralité du Net permet aux FCI de grande envergure d'éviter de grosses dépenses.
+
+* Les Fournisseurs d'Accès Internet
+	* Largement en défaveur de la Neutralité du Net.
+	* Considèrent que la réglementation nuit à l'investissement dans de nouvelles infrastructures réseaux.
+	* Ne souhaitent pas payer pour les FCI.
+	* Veulent plus de contrôle sur les utilisateurs, afin d'éviter des congestions du réseaux.
+
+---
+* Les Gouvernements
+
+
+
+---
+
 # État de la Neutralité du Net dans une partie du monde :
 
 * Canada
@@ -37,28 +66,6 @@ class: center, middle
 	* En France, l'ARCEP a le pouvoir de contrôler et de sanctionner les FAI qui enfreigne la Neutralité du Net.
 	* Seul exception : le Zero-Rating reste autorisé
 
-
----
-
-## Les parties prenantes au débat de la Neutralité du Net et leurs motivations
-
-
-* Sprint 1
-	* Préparer l’environnement de développement
-	* Le visiteur peut se créer un compte utilisateur 
-	* L’utilisateur peut se connecter et se déconnecter de l’application
-	* L’utilisateur peut créer une tâche de fuzzing simplifiée ne contenant que le programme à tester
-
-* Sprint 2
-	* Démarrer une tâche de fuzzing en définissant une grammaire de base pour injecter des données dans un programme.
-	* Fuzzer un programme via l’entrée standard.
-	* Consulter la liste des rapports de crash.
-	* Consulter la liste des tâches de fuzzing.
-
-* Sprint 3
-	* Consulter les détails d’un crash
-	* Consulter les détails d’une tâche de fuzzing
-	* Forcer l’arrêt d’une tâche de fuzzing
 
 ---
 
