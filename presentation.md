@@ -149,6 +149,6 @@ En réponse aux nouvelles techniques déployées par les FAI pour contourner la 
 	* Un Internet gratuit mais dont le contenu est limité (exemple de Facebook en Inde qui proposait un 'Free Basics' pack permettant un accès gratuit à certains site Internet, sélectionné par la compagnie).
 	* Un Internet payant avec un contenu régulier.
 
-* Les FCI/FSI qui hier, protégeaient la Neutralité du Net risque demain de devenir ses plus fervents opposants.
+* Les FCI/FSI qui hier, protégeaient la Neutralité du Net risquent demain de devenir ses plus fervents opposants.
 
 ---
