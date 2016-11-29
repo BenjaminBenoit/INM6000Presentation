@@ -50,6 +50,24 @@ class: center, middle
 	* En Europe, le Body of European Regulators for Electronic Communications (BEREC)
 	* En France, l'Autorité de Régulation des Communications Électroniques (ARCEP).
 
+* Content Distribution NetWork (CDN)
+	* Plate-forme proposés par les FAI, et sont placés aux limites du réseau.
+	* Permettent un accès plus rapide et efficace aux données
+	* Question de la légitimité de l'algorithme de mise en cache.
+	
+* Fournisseurs de Services Internet (FSI)
+	* Certains auteurs scindent les FCI en deux et proposent les FSI.
+	* Principalement des moteurs de recherches.
+	* Les autres FCI y sont dépendant (pour des questions de visibilité).
+	
+* Fournisseur de Transit Internet (FTI)
+	* Le réseau de transit constitue 'l'épine dorsale' d'Internet.
+	* Les FAI se connectent au réseau de transit afin de fournir l'accès au réseau à leurs clients.
+	
+* IoT - Edge Device
+	* Les appareils connectés sont de plus en plus présent (Télévision intelligente, Ampoule intelligent, Drone connecté etc..)
+	* Utilisent la bande passante du réseau internet.
+	* Sont des acteurs qui vont prendre de l'importance dans le débat dans les années à venir.
 
 ---
 
