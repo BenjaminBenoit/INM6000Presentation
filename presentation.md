@@ -19,20 +19,28 @@ class: center, middle
 
 ---
 
-# Principales fonctionnalités
+# État de la Neutralité du Net dans une partie du monde :
 
-* Lancer des tâches de Fuzzing
+* Canada
+	* Depuis 2009, les FAI doivent fournir leur politiques de management de leur réseau et du trafic au CRTC.
+	* En revanche le CRTC n'a aucun pouvoir contraignant sur les FAI.
+	* Le Canada reconnait le principe de Neutralité du Net mais ne le défend pas.
 
-* Consulter les tâches en cours
+* États-Unis
+	* Après plusieurs revirements, en 2015 la FCC interdit finalement les 'Fast-lane'.
+	* La FCC impose la transparence dans l’opération des réseaux.
+	* Le principe de Neutralité du Net est reconnu et soutenu par les lobby puissant des FCI de la Silicon Valley.
+	* La Neutralité du Net pourrait être en danger si on se fie aux dernières déclarations du futur président Américain.
 
-* Consulter les rapports de crash
-
-* Définir une grammaire balisant les données à générer
+* Europe
+	* 2016 : l'Union Européenne consacre la défense de la Neutralité du Net dans sa forme la plus stricte
+	* En France, l'ARCEP a le pouvoir de contrôler et de sanctionner les FAI qui enfreigne la Neutralité du Net.
+	* Seul exception : le Zero-Rating reste autorisé
 
 
 ---
 
-## Contenu des sprints
+## Les parties prenantes au débat de la Neutralité du Net et leurs motivations
 
 
 * Sprint 1
