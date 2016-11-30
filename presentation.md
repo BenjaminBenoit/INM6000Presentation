@@ -26,7 +26,6 @@ class: center, middle
 	* Organisations fondées de façon autonome.
 	* Défendent l’intérêt des citoyens indépendamment de l’influence des entreprises et des États.
 	* Electronic Fountier Foundation : défend les libertés civiles dans le domaine du numérique.
-	* D'autres acteurs plus surprenant : Christian coalition of America.
 
 * Les Fournisseurs de Contenu Internet (FCI)
 	* Google, Amazon, Ebay, Netflix, Facebook etc..
@@ -34,11 +33,9 @@ class: center, middle
 
 * Les Fournisseurs d'Accès Internet (FAI)
 	* Largement en défaveur de la Neutralité du Net.
-	* Veulent plus de contrôle sur les utilisateurs.
 	
 * Les Gouvernements
-	* Ce sont les gouvernement et les entités étatiques qui fixent les règles.
-	* Au Canada, le Conseil de la Radiodiffusion et des Télécommunication Canadienne (CRTC).
+	* Au Canada : Conseil de la Radiodiffusion et des Télécommunication Canadienne (CRTC).
 	* Aux États-Unis, la Federal Communications Commission (FCC).
 	* En Europe, le Body of European Regulators for Electronic Communications (BEREC)
 	* En France, l'Autorité de Régulation des Communications Électroniques (ARCEP).
@@ -71,17 +68,15 @@ class: center, middle
 * Canada
 	* Depuis 2009, les FAI doivent fournir leur politiques de management de leur réseau et du trafic au CRTC.
 	* En revanche le CRTC n'a aucun pouvoir contraignant sur les FAI.
-	* Le Canada reconnait le principe de Neutralité du Net mais ne le défend pas.
 
 * États-Unis
-	* Après plusieurs revirements, en 2015 la FCC interdit finalement les 'Fast-lane'.
-	* La FCC impose la transparence dans l’opération des réseaux.
+	* La FCC impose la transparence dans l’opération des réseaux et interdit les 'Fast-lane'.
 	* Le principe de Neutralité du Net est reconnu et soutenu par les lobby puissant des FCI de la Silicon Valley.
-	* La Neutralité du Net pourrait être en danger si on se fie aux dernières déclarations du futur président Américain.
+	* Trump contre la Neutralité du Net.
 
 * Europe
 	* 2016 : l'Union Européenne consacre la défense de la Neutralité du Net dans sa forme la plus stricte
-	* En France, l'ARCEP a le pouvoir de contrôler et de sanctionner les FAI qui enfreignent la Neutralité du Net.
+	* En France, l'ARCEP a le pouvoir de contrôler et de sanctionner les FAI.
 	* Seule exception : le Zero-Rating reste autorisé
 
 
@@ -97,6 +92,7 @@ class: center, middle
 
 * Ne pas laisser aux FAI le pouvoir de filtrer l'information.
 
+---
 
 # Principaux arguments en défaveur de la Neutralité du Net
 
@@ -151,4 +147,3 @@ En réponse aux nouvelles techniques déployées par les FAI pour contourner la 
 
 * Les FCI/FSI qui hier, protégeaient la Neutralité du Net risquent demain de devenir ses plus fervents opposants.
 
----
