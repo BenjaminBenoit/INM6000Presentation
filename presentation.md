@@ -25,7 +25,6 @@ class: center, middle
 * La société civile
 	* Organisations fondées de façon autonome.
 	* Défendent l’intérêt des citoyens indépendamment de l’influence des entreprises et des États.
-	* Electronic Fountier Foundation : défend les libertés civiles dans le domaine du numérique.
 
 * Les Fournisseurs de Contenu Internet (FCI)
 	* Google, Amazon, Ebay, Netflix, Facebook etc..
@@ -35,10 +34,10 @@ class: center, middle
 	* Largement en défaveur de la Neutralité du Net.
 	
 * Les Gouvernements
-	* Au Canada : Conseil de la Radiodiffusion et des Télécommunication Canadienne (CRTC).
-	* Aux États-Unis, la Federal Communications Commission (FCC).
-	* En Europe, le Body of European Regulators for Electronic Communications (BEREC)
-	* En France, l'Autorité de Régulation des Communications Électroniques (ARCEP).
+	* Canada : Conseil de la Radiodiffusion et des Télécommunication Canadienne.
+	* Aux États-Unis : la Federal Communications Commission (FCC).
+	* Europe : le Body of European Regulators for Electronic Communications
+	* France:l'Autorité de Régulation des Communications Électroniques.
 
 ---
 
@@ -75,9 +74,9 @@ class: center, middle
 	* Trump contre la Neutralité du Net.
 
 * Europe
-	* 2016 : l'Union Européenne consacre la défense de la Neutralité du Net dans sa forme la plus stricte
+	* 2016 : l'UE défend strictement la Neutralité du Net.
 	* En France, l'ARCEP a le pouvoir de contrôler et de sanctionner les FAI.
-	* Seule exception : le Zero-Rating reste autorisé
+	* Seule exception : le Zero-Rating reste autorisé.
 
 
 ---
@@ -146,4 +145,3 @@ En réponse aux nouvelles techniques déployées par les FAI pour contourner la 
 	* Un Internet payant avec un contenu régulier.
 
 * Les FCI/FSI qui hier, protégeaient la Neutralité du Net risquent demain de devenir ses plus fervents opposants.
-
